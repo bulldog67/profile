@@ -46,7 +46,7 @@ echo '<p>Welcome to your Custom Profile Theme! Need help? Contact the  developer
 
 function remove_footer_admin () {
  
-echo ' Page designed by <a href="http://www.billsugden.com" target="_blank">billsugden.com</a> | WordPress page designer: <a href="https://www.billsugden.com" target="_blank">Bill Sugden</a></p>';
+echo ' Page designed by <a href="http://www.billsugden.com" target="_blank">billsugden.com</a> | WordPress page designer: <a href="mailto:billsugden@billsugden.com" target="_blank">Bill Sugden</a></p>';
  
 }
  
